@@ -1,0 +1,4 @@
+main
+	decimal_a_digitos
+		Div_16X16_U
+	mostrar_digito
