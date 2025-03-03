@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\HardwareAE\HAE\Practicas\Practica2\P2_a\MyProject.mcppi
+Project1=..\..\..\HardwareAE\HAE\Practicas\Practica2\P2_a\Practica2b_ares.mcppi
+[ActiveProject]
+Index=1
