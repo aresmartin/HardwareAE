@@ -1,0 +1,7 @@
+main
+	__CC2DW
+	leer_digitos
+		Div_16x16_S
+			Div_16x16_S_L
+		Mul_16X16_U
+	mostrar_digitos
